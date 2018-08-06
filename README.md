@@ -1,5 +1,11 @@
 # coinex_cet_version
 
+安装依赖库  Ubuntu 16.04 
+apt install python-pip
+pip install requests
+pip install futures
+apt install lrzsz
+
 ===================================================
 
 1.只刷BTCUSDT
