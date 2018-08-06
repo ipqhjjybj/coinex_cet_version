@@ -15,8 +15,11 @@ apt install lrzsz
 
 2.请开始前确认
 	a. cet 50%抵扣已开
+
 	b. 大号邀请小号方式
+
 	c. 是否为锁仓CET用户
+	
 
 3._init_vol = 0.06   这里是每次发单金额的大小，请根据实际情况配比
    使用前添加自己的 apikey ,secretkey
