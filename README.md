@@ -1,4 +1,4 @@
-# coinex_cet_version
+# coinex_minning cet_new protocol viersion
 
 安装依赖库  Ubuntu 16.04 
 apt install python-pip
