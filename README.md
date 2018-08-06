@@ -41,7 +41,7 @@ apt install lrzsz
 
 m18581058717@sohu.com
 
-欢迎打赏 cet , usdt , btc 等各类币种
+欢迎打赏 BCH,  cet , btc 等各类币种
 
 
 
