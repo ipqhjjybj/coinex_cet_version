@@ -19,7 +19,7 @@ apt install lrzsz
 	b. 大号邀请小号方式
 
 	c. 是否为锁仓CET用户
-	
+
 
 3._init_vol = 0.06   这里是每次发单金额的大小，请根据实际情况配比
    使用前添加自己的 apikey ,secretkey
@@ -34,9 +34,11 @@ apt install lrzsz
 
 ====================================================
 
-@author:  CET饕餮量化团队
+@author:  饕餮量化基金
+
 
 打赏请 coinex 内部转账, 转账地址:
+
 m18581058717@sohu.com
 
 欢迎打赏 cet , usdt , btc 等各类币种
