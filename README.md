@@ -40,9 +40,10 @@ apt install lrzsz
 
 打赏请 coinex 内部转账, 转账地址:
 
-m18581058717@sohu.com
+coinex donating account: m18581058717@sohu.com 
 
 欢迎打赏 BCH,  cet , btc 等各类币种
+
 
 
 
