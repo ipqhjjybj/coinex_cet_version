@@ -2,8 +2,11 @@
 
 安装依赖库  Ubuntu 16.04 
 apt install python-pip
+
 pip install requests
+
 pip install futures
+
 apt install lrzsz
 
 ===================================================
